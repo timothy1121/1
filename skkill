@@ -1,0 +1,30 @@
+Resume Web Panel
+Workflow
+Read the user's resume or career notes first.
+Identify the target role and strongest positioning.
+Rewrite content for web display, not long-form resume reading.
+Structure the page as:
+Hero positioning
+Key metrics
+Core capabilities
+Representative projects
+Work timeline
+Work methodology
+Contact section
+Prefer concise, outcome-focused language.
+Use strong visual hierarchy and responsive layout.
+Keep the final output usable as a local HTML file unless the user asks for a full app.
+Writing Rules
+Lead with what the person can solve.
+Use numbers and outcomes where available.
+Do not copy the resume verbatim.
+Avoid vague self-evaluation unless tied to evidence.
+Keep each section short enough for web scanning.
+Design Direction
+For management, training, operations, or project roles, prefer:
+
+Personal capability dashboard
+Web PPT style
+Timeline plus metrics
+System-building narrative
+Avoid overly cute or decorative resume styles unless the user asks for them.
